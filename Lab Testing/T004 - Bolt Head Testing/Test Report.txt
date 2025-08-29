@@ -1,0 +1,12 @@
+Experiment:	Bolt Head Tolerance Testing
+Reference:	T004
+Description:	Assessment of the allowable tolerance for the hexagonal bolt head.
+
+Researcher:	Dr Angus Clark
+Date:		21/08/2025
+
+Test Details:
+Increase tolerance by 0.1 and 0.2mm.
+
+Test Results:
+Tolerance increase of 0.1mm enough to enable easy insertion without significant free motion.
