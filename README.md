@@ -2,6 +2,8 @@
 ## Overview
 **iFix_3D** is a novel 3D printed external fixator device developed at Imperial College London. This project is intended for **research purposes only** and is currently **not for clinical use.** The iFix_3D is under continuous development and refinement.
 
+![iFix_3D Model Image](iFix_3D_image.png)
+
 ## Status and Disclaimer
 - **Development Stage:** Prototype phase; subject to further design and testing.
 - **Clinical Use:** Strictly prohibited. The device is for research, academic, and educational purposes only.
