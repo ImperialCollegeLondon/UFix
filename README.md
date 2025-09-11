@@ -5,7 +5,8 @@
 ## Overview
 **iFix_3D** is a novel 3D printed external fixator device developed at Imperial College London. This project is intended for **research purposes only** and is currently **not for clinical use.** The iFix_3D is under continuous development and refinement.
 
-![iFix_3D Model Image](iFix_3D_image.png)
+![iFix_3D Model Image 1](iFix_3D_image_1.png)
+![iFix_3D Model Image 2](iFix_3D_image_2.png)
 
 ## Status and Disclaimer
 - **Development Stage:** Prototype phase; subject to further design and testing.
@@ -21,7 +22,7 @@
 ## 3D Printing Information
 - **Printer:** Prusa i3 MK3S
 - **Printer Settings:** 0.2mm Speed preset, 100% infill, no supports
-- **Material Selection:** Recommended material is **ABS**.  
+- **Material Selection:** Recommended material is **PLA**.  
 Choice of 3D printing material depends on local material availability and printer compatibility, however note this may affect performance/strength and has not been tested!
 Materials and printer models may change as testing progresses.
 
