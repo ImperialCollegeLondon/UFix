@@ -18,6 +18,9 @@
 - **Testing:** Subjected to preliminary Finite Element Analysis (FEA) and mechanical testing at Imperial College London.
 - **Adaptability:** Initially designed for lower limb applications but can be adapted for upper limb use via parametric modelling of rod and pin sizes.
 - **Assembly:** Simple and inspired by commercial external fixators, modelled after the metal [Imperial External Fixator](https://imperial.ac.uk/external-fixator).
+- **Sizes:** Multiple Rod sizes supported (metric 6/8/10/12mm, imperial 0.5")
+
+![iFix_3D Model Sizes](iFix_3D_image_3.png)
 
 ## 3D Printing Information
 - **Printer:** Prusa i3 MK3S
