@@ -5,9 +5,9 @@
 ## Overview
 **UFix** is a novel 3D printed external fixator device developed at Imperial College London. This project is intended for **research purposes only** and is currently **not for clinical use.** The UFix is under continuous development and refinement.
 
-![UFix Model Image 1](/0.1 Images/UFix_image_1.JPG)
-![UFix Model Image 2](/0.1 Images/UFix_image_2.png)
-![UFix Model Image 3](/0.1 Images/UFix_image_3.png)
+![UFix Model Image 1](0.1 Images/UFix_image_1.JPG)
+![UFix Model Image 2](0.1 Images/UFix_image_2.png)
+![UFix Model Image 3](0.1 Images/UFix_image_3.png)
 
 ## Status and Disclaimer
 - **Development Stage:** Prototype phase; subject to further design and testing.
