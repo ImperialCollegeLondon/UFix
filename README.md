@@ -1,18 +1,21 @@
 # UFix: 3D Printed External Fixator
 ## Releases
-[Please check here for the latest design release](https://github.com/ImperialCollegeLondon/UFix/releases)
+UFix is made available on all major 3D model databases:
+- [**UFix on Printables**](https://www.printables.com/model/)
+- [**UFix on Thingiverse**](https://www.thingiverse.com/thing:)
+- [**UFix on MakerWorld**](https://makerworld.com/en/models/)
+
+Please check [here for the latest design release on GitHub](https://github.com/ImperialCollegeLondon/UFix/releases), with version history and a list of changes.
 
 ## Overview
 **UFix** is a novel 3D printed external fixator device developed at Imperial College London. This project is intended for **research purposes only** and is currently **not for clinical use.** The UFix is under continuous development and refinement.
 
-![UFix Model Image 1](0.1%20Images/UFix_image_1.JPG)
-![UFix Model Image 2](0.1%20Images/UFix_image_2.png)
-![UFix Model Image 3](0.1%20Images/UFix_image_3.png)
+![UFix Model Image](0.1%20Images/UFix_image.png)
 
 ## Status and Disclaimer
 - **Development Stage:** Prototype phase; subject to further design and testing.
 - **Clinical Use:** Strictly prohibited. The device is for research, academic, and educational purposes only.
-- **Licensing:** This model is **not open source**. It is not permitted to build derivative models based on UFix or its features and make them publicly available.
+- **Licensing:** This work is licensed under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License** ([**CC BY-NC-ND 4.0**](https://creativecommons.org/licenses/by-nc-nd/4.0/)). It is not permitted to build derivative models based on UFix or its features and make them publicly available.
 
 ## Features
 - **CAD Design:** Developed in SolidWorks.
