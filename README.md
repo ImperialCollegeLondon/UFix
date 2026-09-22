@@ -1,9 +1,11 @@
 # UFix: 3D Printed External Fixator
 ## Releases
 UFix is made available on all major 3D model databases:
-- [**UFix on Printables**](https://www.printables.com/model/)
-- [**UFix on Thingiverse**](https://www.thingiverse.com/thing:)
-- [**UFix on MakerWorld**](https://makerworld.com/en/models/)
+- [**UFix on Printables**](https://www.printables.com/model/1839361-ufix-emergency-external-fixator-surgical-bone-stab)
+
+[//]: # - [**UFix on Thingiverse**](https://www.thingiverse.com/thing:)
+
+[//]: # - [**UFix on MakerWorld**](https://makerworld.com/en/models/)
 
 Please check [here for the latest design release on GitHub](https://github.com/ImperialCollegeLondon/UFix/releases), with version history and a list of changes.
 
